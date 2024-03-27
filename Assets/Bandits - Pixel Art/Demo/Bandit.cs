@@ -36,7 +36,7 @@ public class Bandit : MonoBehaviour {
 
         // -- Handle input and movement --
         float inputX = Input.GetAxis("Horizontal");
-        float inputY = Input.GetAxis("Vertical");
+        float inputZ = Input.GetAxis("Vertical");
 
         // Swap direction of sprite depending on walk direction
         if (inputX > 0)
@@ -44,13 +44,13 @@ public class Bandit : MonoBehaviour {
         else if (inputX < 0)
             transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 
-        if (inputY > 0)
-            transform.localScale = new Vector3(1.0f, 1.0f, -1.0f);
-        else if (inputY < 0)
-            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+        //if (inputZ > 0)
+        //    transform.localScale = new Vector3(1.0f, 1.0f, -1.0f);
+        //else if (inputZ < 0)
+        //    transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 
         // Move
-        m_body2d.velocity = new Vector3(-inputX * m_speed, m_body2d.velocity.y, -inputY * m_speed);
+        m_body2d.velocity = new Vector3(-inputX * m_speed, m_body2d.velocity.y, -inputZ * m_speed);
 
         //Set AirSpeed in animator
         m_animator.SetFloat("AirSpeed", m_body2d.velocity.y);
@@ -89,11 +89,13 @@ public class Bandit : MonoBehaviour {
         }
 
         //Run
+        else if (Mathf.Abs(inputZ) > Mathf.Epsilon)
+            m_animator.SetInteger("AnimState", 2);
+
         else if (Mathf.Abs(inputX) > Mathf.Epsilon)
             m_animator.SetInteger("AnimState", 2);
 
-        else if (Mathf.Abs(inputY) > Mathf.Epsilon)
-            m_animator.SetInteger("AnimState", 2);
+
 
         //Combat Idle
         else if (m_combatIdle)
