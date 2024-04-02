@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = UnityEditor.TestTools.CodeCoverage
+build_property.ProjectDir = C:\Projects\Crystal Carnage\crystal-carnage2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

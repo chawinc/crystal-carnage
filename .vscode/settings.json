@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "crystal-carnage.sln"
+    "dotnet.defaultSolution": "crystal-carnage2.sln"
 }
