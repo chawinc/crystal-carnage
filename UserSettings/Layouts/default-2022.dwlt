@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 46
+  controlID: 149
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 47
+  controlID: 50
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 48
+  controlID: 51
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 269
     height: 595
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -206,7 +206,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -217,7 +217,7 @@ MonoBehaviour:
     height: 595
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 17}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 17}
   - {fileID: 18}
@@ -225,8 +225,8 @@ MonoBehaviour:
   - {fileID: 19}
   - {fileID: 20}
   - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 2
+  m_Selected: 2
+  m_LastSelected: 4
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 55
+  controlID: 61
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -367,7 +367,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 93630
+  m_LastSelectedObjectID: 23434
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -437,7 +437,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -505,20 +505,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1c7d0100
-      m_LastClickedID: 97564
-      m_ExpandedIDs: 167fffff5481ffffba89ffffb48dffff30fbffff0a5c00001c7d0100087e0100
+      m_SelectedIDs: fa5f0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 24fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Sphere
-        m_OriginalName: Sphere
+        m_Name: Crystal
+        m_OriginalName: Crystal
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -40354
+        m_UserData: 23178
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -952,9 +952,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.49639273, y: 1.3400002, z: 4.858969}
+    m_Target: {x: -6.31, y: 2.39, z: 5.99}
     speed: 2
-    m_Value: {x: 0.49639273, y: 1.3400002, z: 4.858969}
+    m_Value: {x: -6.31, y: 2.39, z: 5.99}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1002,11 +1002,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.00521254, y: -0.98204434, z: 0.027403252, w: 0.18662354}
     speed: 2
-    m_Value: {x: 0.0052535934, y: -0.9817548, z: 0.027395165, w: 0.18809476}
+    m_Value: {x: 0.0052124946, y: -0.9820358, z: 0.027403014, w: 0.18662192}
   m_Size:
-    m_Target: 2.1496863
+    m_Target: 1.3038788
     speed: 2
-    m_Value: 2.1496863
+    m_Value: 1.3038788
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1136,16 +1136,17 @@ MonoBehaviour:
   m_ViewTransforms:
     m_KeySerializationHelper:
     - {fileID: 110716596, guid: b95265f99b6d90e438df1308a89c8bab, type: 2}
-    - {fileID: -5044371751223448988, guid: c227c0838d1cdf2438a3f44a51d917fe, type: 2}
+    - {fileID: -923978048705804617, guid: 9ca392384bcd2cb42b749ab35fec78f1, type: 2}
+    - {fileID: 6518099401111439059, guid: 86c624b64523cbd4e847ae281a2f09ea, type: 2}
     m_ValueSerializationHelper:
-    - e00: 0.65425533
+    - e00: 0.9063158
       e01: 0
       e02: 0
-      e03: 69.95743
+      e03: -1.3157748
       e10: 0
-      e11: 0.65425533
+      e11: 0.9063158
       e12: 0
-      e13: 156.13298
+      e13: 183.80525
       e20: 0
       e21: 0
       e22: 1
@@ -1154,14 +1155,30 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
-    - e00: 1
+    - e00: 0.9063158
       e01: 0
       e02: 0
-      e03: 0
+      e03: -30.315796
       e10: 0
-      e11: 1
+      e11: 0.9063158
       e12: 0
-      e13: 0
+      e13: 190.46317
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 0.9063158
+      e01: 0
+      e02: 0
+      e03: -30.315796
+      e10: 0
+      e11: 0.9063158
+      e12: 0
+      e13: 167.80527
       e20: 0
       e21: 0
       e22: 1
@@ -1171,9 +1188,9 @@ MonoBehaviour:
       e32: 0
       e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: c227c0838d1cdf2438a3f44a51d917fe, type: 2}
+  m_AnimatorController: {fileID: 9100000, guid: 9ca392384bcd2cb42b749ab35fec78f1, type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: -5044371751223448988, guid: c227c0838d1cdf2438a3f44a51d917fe, type: 2}
+  - m_Target: {fileID: -923978048705804617, guid: 9ca392384bcd2cb42b749ab35fec78f1, type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
@@ -1231,7 +1248,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Monsters Creatures Fantasy/Sprites/Goblin
+    - Assets/Prefab
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1239,16 +1256,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Monsters Creatures Fantasy/Sprites/Goblin
+  - Assets/Prefab
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Projects\Crystal Carnage\crystal-carnage2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 17}
-    m_SelectedIDs: 1a7e0100
-    m_LastClickedID: 97818
-    m_ExpandedIDs: 00000000085f0000105f0000225f00002e6b0100326b010000ca9a3b
+    scrollPos: {x: 0, y: 161}
+    m_SelectedIDs: fa5f0000
+    m_LastClickedID: 24570
+    m_ExpandedIDs: 00000000e05f0000e25f0000e45f0000f05f0000f85f00000460000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1276,7 +1293,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000045f0000065f0000085f0000
+    m_ExpandedIDs: 00000000e05f0000e25f0000e45f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1304,7 +1321,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000d25c0000ca5c0000dc78000000000000d85d00009c7a0100
+    m_ExpandedInstanceIDs: c6230000d25c0000ca5c0000dc78000000000000d85d00009c7a010080600000da5e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

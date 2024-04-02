@@ -1,0 +1,2415 @@
+fileFormatVersion: 2
+guid: 9a8cb4516e03d974c8fd0c4214a52e2b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crystal_Spinning_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 595
+        width: 205
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8d94586e7478246a65d90fe4d4b225
+      internalID: -752205373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 595
+        width: 190
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f9dde9591db3d4bab7debf2c967662
+      internalID: -1077001112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 595
+        width: 174
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aad33abf7ba5741b55603d1c0d3d4c
+      internalID: -900127261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_3
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 595
+        width: 160
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb045793d4a73940a7263aeb0e77285
+      internalID: 2072337644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_4
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 595
+        width: 139
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727762b0ee49ce1469272049561b661e
+      internalID: 1700625470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_5
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 596
+        width: 103
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f3d72a2406c104e9032aba85492296
+      internalID: 425230186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_6
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 596
+        width: 72
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d88e2a2c79f95439739e76d71290db
+      internalID: 929393594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_7
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 597
+        width: 44
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb264b09b4b9304ea1cdc25aa116161
+      internalID: -1294318068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_8
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 596
+        width: 66
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0adb71723a0b468c5ce10282efc40
+      internalID: -1813264062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_9
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 595
+        width: 109
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df09f12412ab08d44b5095769fe6293e
+      internalID: -557586107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_10
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 595
+        width: 146
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def03cac58bdb4f4583846a91ff45491
+      internalID: 571503924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_11
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 595
+        width: 169
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da67deb31bc88cc4fbd0f04ed10a87b1
+      internalID: -1830452378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_12
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 595
+        width: 183
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1321d71576ad5364eb2f9607124379e7
+      internalID: 2109413981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_13
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 595
+        width: 211
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f597586d7c6ff46b097e80ffc6a30f
+      internalID: -1345084848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_14
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 595
+        width: 183
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3987244b8c52fa6458a98b7bbbcac67a
+      internalID: -714260475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_15
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 595
+        width: 168
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1011384bb2be984db725f6ade2523eb
+      internalID: -346587597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_16
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 596
+        width: 146
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370cbc88cbac204fa19ab8e10febced
+      internalID: 1046572274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_17
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 596
+        width: 109
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7361f3e10408b4947804c40fc1645a6e
+      internalID: -1138090764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_18
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 596
+        width: 66
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489acec0b3332341b126ffc4eeedba1
+      internalID: -318971185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_19
+      rect:
+        serializedVersion: 2
+        x: 5336
+        y: 599
+        width: 44
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab6fe6192872840b66d9356ef0a342
+      internalID: 1080639794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_20
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 596
+        width: 73
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff76ad1ab1842409746bb1f4d2ba6b
+      internalID: 1006432125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_21
+      rect:
+        serializedVersion: 2
+        x: 5871
+        y: 596
+        width: 87
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a96b75fcdf4af4baff55a380d5206c
+      internalID: 1041059660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_22
+      rect:
+        serializedVersion: 2
+        x: 6149
+        y: 596
+        width: 124
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489454861c55d1c47af50bdce66ae283
+      internalID: 77864880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_23
+      rect:
+        serializedVersion: 2
+        x: 6427
+        y: 595
+        width: 146
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01832c0494200745a4cf06bcc20ad87
+      internalID: 1191098042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_24
+      rect:
+        serializedVersion: 2
+        x: 6669
+        y: 595
+        width: 168
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d85fa8a06083478dc04d9eae57097
+      internalID: -1603605803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_25
+      rect:
+        serializedVersion: 2
+        x: 6969
+        y: 595
+        width: 183
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84822775990e36841889162f2e9caa7f
+      internalID: 560144302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_26
+      rect:
+        serializedVersion: 2
+        x: 7233
+        y: 595
+        width: 197
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195914aea62a807468780eafd0f58c35
+      internalID: -440068252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_27
+      rect:
+        serializedVersion: 2
+        x: 7497
+        y: 596
+        width: 197
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02151294eb3729140b1eab000f2ad8ee
+      internalID: -2054069426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_28
+      rect:
+        serializedVersion: 2
+        x: 7775
+        y: 596
+        width: 183
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9065ad25f8bcaf842b2a7bb35d342935
+      internalID: -544081323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_29
+      rect:
+        serializedVersion: 2
+        x: 8068
+        y: 596
+        width: 168
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eb66eb723ba9a4fbaff1357d594b75
+      internalID: -1020722698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_30
+      rect:
+        serializedVersion: 2
+        x: 8339
+        y: 596
+        width: 153
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc8f8e4fbbf884a86044dfc80c849a
+      internalID: -197291109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_31
+      rect:
+        serializedVersion: 2
+        x: 8602
+        y: 597
+        width: 125
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27fa515a5d3fa49ad5496fac42c136
+      internalID: 1166307276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_32
+      rect:
+        serializedVersion: 2
+        x: 8910
+        y: 597
+        width: 80
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d7a34bf0185a94fbbc68dadfa679cc
+      internalID: -204344324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_33
+      rect:
+        serializedVersion: 2
+        x: 8977
+        y: 990
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f4511bac52b644b1de22539c53715
+      internalID: 460242361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_34
+      rect:
+        serializedVersion: 2
+        x: 9207
+        y: 597
+        width: 54
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef99b229c97c646bdbd5df1e5ba26d
+      internalID: 1171906941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_35
+      rect:
+        serializedVersion: 2
+        x: 9264
+        y: 991
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc888163003b84f9d1b151068787cc
+      internalID: -1349463036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_36
+      rect:
+        serializedVersion: 2
+        x: 9481
+        y: 599
+        width: 59
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e02b0fba92b26418ce19eef4caa69f
+      internalID: -2004024513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_37
+      rect:
+        serializedVersion: 2
+        x: 9544
+        y: 993
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf9097769295f4ab17aae0431a8c90
+      internalID: 2041339094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_38
+      rect:
+        serializedVersion: 2
+        x: 9760
+        y: 597
+        width: 80
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb525937dfec71459ce9b0f9c2d7306
+      internalID: 1442313735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_39
+      rect:
+        serializedVersion: 2
+        x: 9835
+        y: 991
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d513c7569d8aef4da5919797b635f3d
+      internalID: 114826952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_40
+      rect:
+        serializedVersion: 2
+        x: 10023
+        y: 597
+        width: 125
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce79c5bc4a420848bf87f334e95f019
+      internalID: -746706733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_41
+      rect:
+        serializedVersion: 2
+        x: 10302
+        y: 596
+        width: 153
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7267bf99f3aef294db20d00011224181
+      internalID: 1255953572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_42
+      rect:
+        serializedVersion: 2
+        x: 10565
+        y: 596
+        width: 176
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d6f0e4485be84b80d06daa9c1ad7f
+      internalID: 2091077248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_43
+      rect:
+        serializedVersion: 2
+        x: 10858
+        y: 596
+        width: 198
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeeaff6f8cc6ef439201fa8d432ad6b
+      internalID: -1869798663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_44
+      rect:
+        serializedVersion: 2
+        x: 11131
+        y: 596
+        width: 196
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc48b9b242965bd4abad855cc43f88f0
+      internalID: -1567190789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_45
+      rect:
+        serializedVersion: 2
+        x: 11415
+        y: 596
+        width: 176
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba735d6a192243a40b803e58f11a1367
+      internalID: -753795327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_46
+      rect:
+        serializedVersion: 2
+        x: 11701
+        y: 596
+        width: 153
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829952e2f502fd499510c17cd782ac3
+      internalID: -911944430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_47
+      rect:
+        serializedVersion: 2
+        x: 11979
+        y: 599
+        width: 130
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c7d823fdc74542b93650564a28fb6
+      internalID: -1012906141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_48
+      rect:
+        serializedVersion: 2
+        x: 12266
+        y: 602
+        width: 86
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c664c9efe0ddce4d90b24dd089fae0a
+      internalID: 1988477926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_49
+      rect:
+        serializedVersion: 2
+        x: 12514
+        y: 599
+        width: 58
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fbba309bf5cc746b621014e732010b
+      internalID: 720199358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_50
+      rect:
+        serializedVersion: 2
+        x: 12806
+        y: 602
+        width: 59
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b658276dcf1bb43b81978518a05d8f
+      internalID: -881899354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_51
+      rect:
+        serializedVersion: 2
+        x: 13099
+        y: 599
+        width: 81
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790c73422e2b70b44a578b052afba1d2
+      internalID: -171256833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_52
+      rect:
+        serializedVersion: 2
+        x: 13341
+        y: 599
+        width: 110
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2fba7f8a3c54544ad292f2b5565424
+      internalID: 248233965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_53
+      rect:
+        serializedVersion: 2
+        x: 13634
+        y: 599
+        width: 139
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e76ab1db41ede42baa62b2d6c66213
+      internalID: -2004724003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_54
+      rect:
+        serializedVersion: 2
+        x: 13920
+        y: 599
+        width: 161
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391596328e3b9574796e24d8af754229
+      internalID: -1479201202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_55
+      rect:
+        serializedVersion: 2
+        x: 14198
+        y: 597
+        width: 168
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da4b0065efcdec4995182d097a6ba4f
+      internalID: -272118796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_56
+      rect:
+        serializedVersion: 2
+        x: 14462
+        y: 597
+        width: 190
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0911b202eaaf142bbc901cd97afa2b
+      internalID: -1019452224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_57
+      rect:
+        serializedVersion: 2
+        x: 14740
+        y: 597
+        width: 205
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ffb0d5d9c86b84b8f6d3d638ce5f90
+      internalID: -1156084769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_58
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 796
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8f9ece7be240e4eb43f5b90a98dab4
+      internalID: 577789173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_59
+      rect:
+        serializedVersion: 2
+        x: 6618
+        y: 792
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96981e81ceb12c4d97111a79c14c03c
+      internalID: -601417726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_60
+      rect:
+        serializedVersion: 2
+        x: 6934
+        y: 793
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027ed6b72728d3e4eb626dce5ed78f50
+      internalID: 461080033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_61
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 793
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0b17614ffd1546bd18c2fbfa33b1f
+      internalID: 232285828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5d1f74dd9dd37468f58005c013f3e1
+      internalID: 1403443837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0df87e2d617346ba19cba6ac40ceb
+      internalID: -1709775309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_64
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b5f7be12a03942bbe4c4ad9fae495
+      internalID: 463057211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_65
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b0101426947724a9dee531a61e21de
+      internalID: -178756654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_66
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843be54c5bc63924eaab8a20093582b2
+      internalID: -868451973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_67
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 0
+        width: 278
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80abe39c8cfd544ca377cdcda8ad275
+      internalID: 736763775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_68
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 0
+        width: 598
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00e3c6446ba9643bf8c3c0e418dfa7
+      internalID: 172549627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_69
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef860eceebeadad47a92022be4fdd18b
+      internalID: 1005935773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_70
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 0
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f53aeaed155c4c48b00cb7a88572f2b
+      internalID: 996496821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_71
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 0
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25510362f5c916c4a80d19e76f7f9eb8
+      internalID: -313334327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_72
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 0
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b19df622a4ef93409fcce8a0735eda6
+      internalID: 1494959179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_73
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 0
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69f0bd88160e9b43baa17a4708943e6
+      internalID: -731602671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_74
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda30687ae9374840a3f52e5ce4e2ff3
+      internalID: -1173982848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_75
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4b8d95bc2544d40b2ab067966b5ec2
+      internalID: 641855033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_76
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fabeeae16743ce49be591c6052be4d9
+      internalID: -631983687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_77
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 0
+        width: 1105
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc0c4636a4ad6b4fac4f2014ffb68b1
+      internalID: -1330325665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_78
+      rect:
+        serializedVersion: 2
+        x: 6493
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82f89bc19062814ab24995e9d408ff9
+      internalID: -137214251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_79
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2651ece7470b5094a9c722dbe50d1f62
+      internalID: -1984101662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_80
+      rect:
+        serializedVersion: 2
+        x: 7053
+        y: 0
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d04c6edbb3234f8ed21a4025208f3
+      internalID: 1773607840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_81
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe7fb92073bf3e40ad5f5f11ffdde15
+      internalID: 1688425879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_82
+      rect:
+        serializedVersion: 2
+        x: 7592
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a8958f848e040469a81d91424f531c
+      internalID: -1811943330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_83
+      rect:
+        serializedVersion: 2
+        x: 7858
+        y: 0
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68fcd45e5a3e764eb9561c89fadce60
+      internalID: -766228121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_84
+      rect:
+        serializedVersion: 2
+        x: 8141
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14b32c623539d54eb945cdb64c7678f
+      internalID: 687912717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_85
+      rect:
+        serializedVersion: 2
+        x: 8405
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7554f3ee8b4eec4caf97f5782484b66
+      internalID: 379156019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_86
+      rect:
+        serializedVersion: 2
+        x: 8654
+        y: 0
+        width: 51
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de116abf5a4e758469a2f990eb773fb1
+      internalID: -997375460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_87
+      rect:
+        serializedVersion: 2
+        x: 8940
+        y: 0
+        width: 53
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ea3e1b6d22e04e891864f1e707cb1
+      internalID: 2075012723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_88
+      rect:
+        serializedVersion: 2
+        x: 9226
+        y: 0
+        width: 902
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed21228ca4f41064590eee999cd7fc6d
+      internalID: -1234120388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_89
+      rect:
+        serializedVersion: 2
+        x: 10360
+        y: 0
+        width: 63
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2d54bd00a272c44ace7d83cae376ef
+      internalID: 1915653106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_90
+      rect:
+        serializedVersion: 2
+        x: 10639
+        y: 0
+        width: 63
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74057efd00f71794781b1faeb13c99f6
+      internalID: 292069475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_91
+      rect:
+        serializedVersion: 2
+        x: 10939
+        y: 0
+        width: 65
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ec126a2f6cd5f4281d1703e0097596
+      internalID: 691592836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_92
+      rect:
+        serializedVersion: 2
+        x: 11217
+        y: 0
+        width: 65
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a44ae5be7d8ba749ad06ee01cd838db
+      internalID: -1489227442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_93
+      rect:
+        serializedVersion: 2
+        x: 11488
+        y: 0
+        width: 65
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c728dbfc65989d49b194681d820b75a
+      internalID: -2029893123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_94
+      rect:
+        serializedVersion: 2
+        x: 11762
+        y: 0
+        width: 68
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d6e69be03180e4a85e4e8476df450d
+      internalID: -1750462925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_95
+      rect:
+        serializedVersion: 2
+        x: 12030
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24be68780d10183449b83ed88593c3ad
+      internalID: 41319622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_96
+      rect:
+        serializedVersion: 2
+        x: 12296
+        y: 0
+        width: 259
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b3de31f2ffe704188aec96ba3297e2
+      internalID: 2021127816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_97
+      rect:
+        serializedVersion: 2
+        x: 12829
+        y: 0
+        width: 321
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f93f9570c0d4144904a6f6eea1aac4
+      internalID: -1781752880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_98
+      rect:
+        serializedVersion: 2
+        x: 13385
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6746bdd8576682418b730f06c60a32b
+      internalID: -1308816361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_99
+      rect:
+        serializedVersion: 2
+        x: 13693
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a249251f5d2c44784e99093fe80c7a
+      internalID: -155645123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_100
+      rect:
+        serializedVersion: 2
+        x: 13993
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa45e5a2eedfcc1488701ef26a1ea005
+      internalID: -503636085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_101
+      rect:
+        serializedVersion: 2
+        x: 14273
+        y: 0
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4047a4d198fe944b970d4a7c5a0ba6
+      internalID: 1442933409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_102
+      rect:
+        serializedVersion: 2
+        x: 14550
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996617eefe20f04c94920b5c3e85b64
+      internalID: -1602069136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal_Spinning_103
+      rect:
+        serializedVersion: 2
+        x: 14836
+        y: 0
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9f5ad46c66d74ca579b901016dd91
+      internalID: 626245384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c1b32518eb0dd4408e734670402cd94
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crystal_Spinning_0: -752205373
+      Crystal_Spinning_1: -1077001112
+      Crystal_Spinning_10: 571503924
+      Crystal_Spinning_100: -503636085
+      Crystal_Spinning_101: 1442933409
+      Crystal_Spinning_102: -1602069136
+      Crystal_Spinning_103: 626245384
+      Crystal_Spinning_11: -1830452378
+      Crystal_Spinning_12: 2109413981
+      Crystal_Spinning_13: -1345084848
+      Crystal_Spinning_14: -714260475
+      Crystal_Spinning_15: -346587597
+      Crystal_Spinning_16: 1046572274
+      Crystal_Spinning_17: -1138090764
+      Crystal_Spinning_18: -318971185
+      Crystal_Spinning_19: 1080639794
+      Crystal_Spinning_2: -900127261
+      Crystal_Spinning_20: 1006432125
+      Crystal_Spinning_21: 1041059660
+      Crystal_Spinning_22: 77864880
+      Crystal_Spinning_23: 1191098042
+      Crystal_Spinning_24: -1603605803
+      Crystal_Spinning_25: 560144302
+      Crystal_Spinning_26: -440068252
+      Crystal_Spinning_27: -2054069426
+      Crystal_Spinning_28: -544081323
+      Crystal_Spinning_29: -1020722698
+      Crystal_Spinning_3: 2072337644
+      Crystal_Spinning_30: -197291109
+      Crystal_Spinning_31: 1166307276
+      Crystal_Spinning_32: -204344324
+      Crystal_Spinning_33: 460242361
+      Crystal_Spinning_34: 1171906941
+      Crystal_Spinning_35: -1349463036
+      Crystal_Spinning_36: -2004024513
+      Crystal_Spinning_37: 2041339094
+      Crystal_Spinning_38: 1442313735
+      Crystal_Spinning_39: 114826952
+      Crystal_Spinning_4: 1700625470
+      Crystal_Spinning_40: -746706733
+      Crystal_Spinning_41: 1255953572
+      Crystal_Spinning_42: 2091077248
+      Crystal_Spinning_43: -1869798663
+      Crystal_Spinning_44: -1567190789
+      Crystal_Spinning_45: -753795327
+      Crystal_Spinning_46: -911944430
+      Crystal_Spinning_47: -1012906141
+      Crystal_Spinning_48: 1988477926
+      Crystal_Spinning_49: 720199358
+      Crystal_Spinning_5: 425230186
+      Crystal_Spinning_50: -881899354
+      Crystal_Spinning_51: -171256833
+      Crystal_Spinning_52: 248233965
+      Crystal_Spinning_53: -2004724003
+      Crystal_Spinning_54: -1479201202
+      Crystal_Spinning_55: -272118796
+      Crystal_Spinning_56: -1019452224
+      Crystal_Spinning_57: -1156084769
+      Crystal_Spinning_58: 577789173
+      Crystal_Spinning_59: -601417726
+      Crystal_Spinning_6: 929393594
+      Crystal_Spinning_60: 461080033
+      Crystal_Spinning_61: 232285828
+      Crystal_Spinning_62: 1403443837
+      Crystal_Spinning_63: -1709775309
+      Crystal_Spinning_64: 463057211
+      Crystal_Spinning_65: -178756654
+      Crystal_Spinning_66: -868451973
+      Crystal_Spinning_67: 736763775
+      Crystal_Spinning_68: 172549627
+      Crystal_Spinning_69: 1005935773
+      Crystal_Spinning_7: -1294318068
+      Crystal_Spinning_70: 996496821
+      Crystal_Spinning_71: -313334327
+      Crystal_Spinning_72: 1494959179
+      Crystal_Spinning_73: -731602671
+      Crystal_Spinning_74: -1173982848
+      Crystal_Spinning_75: 641855033
+      Crystal_Spinning_76: -631983687
+      Crystal_Spinning_77: -1330325665
+      Crystal_Spinning_78: -137214251
+      Crystal_Spinning_79: -1984101662
+      Crystal_Spinning_8: -1813264062
+      Crystal_Spinning_80: 1773607840
+      Crystal_Spinning_81: 1688425879
+      Crystal_Spinning_82: -1811943330
+      Crystal_Spinning_83: -766228121
+      Crystal_Spinning_84: 687912717
+      Crystal_Spinning_85: 379156019
+      Crystal_Spinning_86: -997375460
+      Crystal_Spinning_87: 2075012723
+      Crystal_Spinning_88: -1234120388
+      Crystal_Spinning_89: 1915653106
+      Crystal_Spinning_9: -557586107
+      Crystal_Spinning_90: 292069475
+      Crystal_Spinning_91: 691592836
+      Crystal_Spinning_92: -1489227442
+      Crystal_Spinning_93: -2029893123
+      Crystal_Spinning_94: -1750462925
+      Crystal_Spinning_95: 41319622
+      Crystal_Spinning_96: 2021127816
+      Crystal_Spinning_97: -1781752880
+      Crystal_Spinning_98: -1308816361
+      Crystal_Spinning_99: -155645123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
